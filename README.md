@@ -1,7 +1,7 @@
 # Executive MBA Data Analysis Project
 
 ## Overview
-This repository contains the coursework for the Data Analysis module of the Executive MBA program I am enrolled in. The project includes a detailed analysis of a dataset relevant to our study focus, showcasing various data analysis techniques and insights derived through the process.
+This repository contains the coursework for the Data Analysis module of the Executive MBA program (@SDA Bocconi in Milan) I am enrolled in. The project includes a detailed analysis of a dataset relevant to our study focus, showcasing various data analysis techniques and insights derived through the process.
 
 ## Contents
 - `Assignment.pdf`: A comprehensive report detailing the findings of our analysis, conclusions, and recommendations.
